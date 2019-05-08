@@ -1,8 +1,13 @@
 # p5.js
 
+[<img src="https://66.media.tumblr.com/df9c1496e01204c6581746c14169037d/tumblr_phiy0gUfQ51r2geqjo1_540.gifv" width="100%">](https://beesandbombs.tumblr.com/)
 Today we're going check out the javacript library [p5.js](https://p5js.org/). p5.js is a library which abstracts away alot of the boring and initially mind boggling details of the canvas API. It's great for playing around with animations, and generally as an introduction to canvas projects, and even programming.
 
-## We're making the [breakout](<https://en.wikipedia.org/wiki/Breakout_(video_game)>) game! And we're gonna do it using [es6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+## You can choose yourself what you would like to do today. But below are a couple of suggestions:
+
+> note: Try to do everything using [es6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
+## Make the [breakout](<https://en.wikipedia.org/wiki/Breakout_(video_game)>) game!
 
 ### Example:
 
@@ -70,3 +75,9 @@ Set up default HTML `<!DOCTYPE>` template and include both the index.js (above t
 6. Make the ball move
 7. Make the ball bounce off the walls
 8. Make the ball bounce off the paddle
+9. Make the ball bounce off the bricks
+
+## Extra
+
+10. Improve the collision detection
+11. Make the ball bounce in an angle in relation where it hits the paddle.
