@@ -29,7 +29,6 @@ class Tile {
     this.h = h
     this.x = x
     this.y = y
-    this.spin = 0
   }
 
   update() {

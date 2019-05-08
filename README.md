@@ -22,23 +22,23 @@ Today we're going to check out the javacript library [p5.js](https://p5js.org/).
 ### Example:
 
 ```javascript
-const BALL_SPEED = 10
+const BALL_SPEED = 2
 let ball
 
 class Ball {
-  constructor(x, y, width, height) {
-    this.speed = BALL_SPEED
+  constructor(x, y, w, h) {
+    this.speed = createVector(BALL_SPEED, BALL_SPEED)
     this.pos = createVector(width / 2, height / 2)
-    this.width = width
-    this.height = height
+    this.width = w
+    this.height = h
   }
 
   show() {
-    ellipse(this.x, this.y, this.radius, this.radius)
+    ellipse(this.pos.x, this.pos.y, this.width, this.height)
   }
 
   update() {
-    this.pos.add(this.velocity)
+    this.pos.add(this.speed)
   }
 }
 
@@ -51,6 +51,7 @@ function setup() {
 function draw() {
   background(247, 134, 131)
   ball.show()
+  ball.update()
 }
 ```
 
