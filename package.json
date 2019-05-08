@@ -1,0 +1,15 @@
+{
+  "name": "p5jsworkshop",
+  "version": "1.0.0",
+  "description": "[<img src=\"https://media.giphy.com/media/xT9IgHNBhXYZyBpol2/giphy.gif\" width=\"100%\">](https://www.themoviedb.org/movie/371638-the-disaster-artist)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
