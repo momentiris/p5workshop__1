@@ -7,6 +7,8 @@ Today we're going check out the javacript library [p5.js](https://p5js.org/). p5
 
 > It's encouraged, although not obligatory, to work in pairs or groups.
 
+> p5.js has a good [reference section](https://p5js.org/reference/). Check it out.
+
 ## You can choose yourself what you would like to do today. But below are a couple of suggestions:
 
 ### Make the snake game!\*
