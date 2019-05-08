@@ -34,7 +34,7 @@ class Ball {
   }
 
   show() {
-    ellipse(this.x, this.y, this.radius, this.radius)
+    ellipse(this.x, this.y, this.width, this.height)
   }
 
   update() {
