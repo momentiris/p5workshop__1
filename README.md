@@ -1,7 +1,7 @@
 # p5.js
 
 [<img src="https://66.media.tumblr.com/df9c1496e01204c6581746c14169037d/tumblr_phiy0gUfQ51r2geqjo1_540.gifv" width="100%" height="300px" style="object-fit: cover">](https://beesandbombs.tumblr.com/)
-Today we're going check out the javacript library [p5.js](https://p5js.org/). p5.js is a library which abstracts away alot of the boring and initially mind boggling details of the canvas API. It's great for playing around with animations, and generally as an introduction to canvas projects, and even programming.
+Today we're going to check out the javacript library [p5.js](https://p5js.org/). p5.js is a library which abstracts away alot of the boring and initially mind boggling details of the canvas API. It's great for playing around with animations, and generally as an introduction to canvas projects, and even programming.
 
 > Try to do everything using [es6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
@@ -9,7 +9,7 @@ Today we're going check out the javacript library [p5.js](https://p5js.org/). p5
 
 > p5.js has a good [reference section](https://p5js.org/reference/). Check it out.
 
-## You can choose yourself what you would like to do today. But below are a couple of suggestions:
+## You can choose yourself what you would like to do today. If you want a bigger assignment, below are a couple of suggestions:
 
 ### Make the snake game!\*
 
