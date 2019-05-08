@@ -3,17 +3,19 @@
 [<img src="https://66.media.tumblr.com/df9c1496e01204c6581746c14169037d/tumblr_phiy0gUfQ51r2geqjo1_540.gifv" width="100%" height="300px" style="object-fit: cover">](https://beesandbombs.tumblr.com/)
 Today we're going check out the javacript library [p5.js](https://p5js.org/). p5.js is a library which abstracts away alot of the boring and initially mind boggling details of the canvas API. It's great for playing around with animations, and generally as an introduction to canvas projects, and even programming.
 
-> note: Try to do everything using [es6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+> Try to do everything using [es6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
-> note: it's encouraged, although not obligatory, to work in pairs or groups.
+> It's encouraged, although not obligatory, to work in pairs or groups.
 
 ## You can choose yourself what you would like to do today. But below are a couple of suggestions:
 
-## Make the snake game!
+### Make the snake game!\*
 
-## Visit [bees and bombs](https://beesandbombs.tumblr.com/) tumblr page and try to make one of the gifs you find there.
+### Visit [bees and bombs](https://beesandbombs.tumblr.com/) tumblr page and try to make one of the gifs you find there.
 
-## Make the [breakout](<https://en.wikipedia.org/wiki/Breakout_(video_game)>) game!
+### Make the [breakout](<https://en.wikipedia.org/wiki/Breakout_(video_game)>) game!\*
+
+> \* = there is an example in repo
 
 ### Example:
 
