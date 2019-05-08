@@ -1,11 +1,17 @@
 # p5.js
 
-[<img src="https://66.media.tumblr.com/df9c1496e01204c6581746c14169037d/tumblr_phiy0gUfQ51r2geqjo1_540.gifv" width="100%">](https://beesandbombs.tumblr.com/)
+[<img src="https://66.media.tumblr.com/df9c1496e01204c6581746c14169037d/tumblr_phiy0gUfQ51r2geqjo1_540.gifv" width="100%" height="300px" style="object-fit: cover">](https://beesandbombs.tumblr.com/)
 Today we're going check out the javacript library [p5.js](https://p5js.org/). p5.js is a library which abstracts away alot of the boring and initially mind boggling details of the canvas API. It's great for playing around with animations, and generally as an introduction to canvas projects, and even programming.
+
+> note: Try to do everything using [es6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
+> note: it's encouraged, although not obligatory, to work in pairs or groups.
 
 ## You can choose yourself what you would like to do today. But below are a couple of suggestions:
 
-> note: Try to do everything using [es6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+## Make the snake game!
+
+## Visit [bees and bombs](https://beesandbombs.tumblr.com/) tumblr page and try to make one of the gifs you find there.
 
 ## Make the [breakout](<https://en.wikipedia.org/wiki/Breakout_(video_game)>) game!
 
@@ -44,7 +50,7 @@ function draw() {
 }
 ```
 
-## Assignments
+## Helper for making the breakout game
 
 Before we start, create a new directory with the following structure:
 
@@ -53,8 +59,6 @@ Before we start, create a new directory with the following structure:
     - index.html
     - sketch.js
 ```
-
-Set up default HTML `<!DOCTYPE>` template and include both the index.js (above the closing `</body>` tag). Then go to index.js and do a `console.log('im here')`, just to verify that index.js has been included correctly. Lastly open index.html in your favourite browser (not IE ;)).
 
 > Note: Every class object should be in its own file. Do this and thank yourself (and me) later.
 
@@ -70,7 +74,7 @@ Set up default HTML `<!DOCTYPE>` template and include both the index.js (above t
 
 ## Part 2
 
-### Now comes the trickier parts of this assignment. We want to make the objects to care about each others existence and behave according to rules we define for them. We want the ball to bounce off the walls, the paddle and the bricks and we want the bricks to disappear when hit by the ball.
+#### Now comes the trickier parts of this assignment. We want to make the objects to care about each others existence and behave according to rules we define for them. We want the ball to bounce off the walls, the paddle and the bricks and we want the bricks to disappear when hit by the ball.
 
 6. Make the ball move
 7. Make the ball bounce off the walls
@@ -80,4 +84,4 @@ Set up default HTML `<!DOCTYPE>` template and include both the index.js (above t
 ## Extra
 
 10. Improve the collision detection
-11. Make the ball bounce in an angle in relation where it hits the paddle.
+11. Make the ball bounce in an angle in relation to where it hits the paddle.
