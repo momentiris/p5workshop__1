@@ -9,7 +9,7 @@ Today we're going to check out the javacript library [p5.js](https://p5js.org/).
 
 > p5.js has a good [reference section](https://p5js.org/reference/). Check it out.
 
-## You can choose yourself what you would like to do today. If you want a bigger assignment, below are a couple of suggestions:
+## You can choose yourself what you would like to do today. If you feel like you don't know where to start, I suggest you remake your ball animation from the canvas assignment, but in p5.js. If you want a bigger assignment, below are a couple of suggestions:
 
 ### Make the snake game!\*
 
